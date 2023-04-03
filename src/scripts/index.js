@@ -89,6 +89,6 @@ function nota() {
         resultado.innerHTML = "Sua média é: " + media +  ". Você está abaixo da média ";  //toFixed mostra o valor em até 2 casas decimais
     } else {
         resultado.innerHTML = "Sua média é: " + media +  ". Você está na média/acima ";
-    }
+    }//
     
 }
